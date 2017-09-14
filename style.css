@@ -1,0 +1,71 @@
+.header {
+  text-align: center;
+}
+
+h1 {
+  text-shadow: 2px 2px #606060;
+}
+
+body {
+  background-color: gray;
+}
+
+#dedicate {
+  font-weight: bold;
+  line-height: 30%;
+}
+
+#article {
+  text-decoration: underline;
+  line-height: 1%;
+}
+
+#truck {
+  align-content: center;
+  box-shadow: 10px 10px 50px 1px #606060,
+              -10px -10px 50px 1px #606060,
+              10px -10px 50px 1px #606060,
+              -10px 10px 50px 1px #606060;
+  width: 65%;
+  height: 527px;
+  margin: 2em auto;
+  border-radius: 10px;
+}
+
+#truck img {
+  width: 100%;
+}
+
+#title {
+  font-size: 22px;
+}
+
+ul {
+  list-style: none;
+}
+
+.timeline img {
+  float: right;
+}
+
+#houston {
+  text-alig: center;
+  clear: both;
+}
+
+#closing {
+  text-align: center;
+  outline-style: : solid;
+  outline-color: #686868;
+  width: 650px;
+  padding: 5px;
+  border: 0px #606060;
+  border-radius: 7px;
+  margin: auto;
+  box-shadow: 10px 10px 50px 1px #707070,
+              -10px -10px 50px 1px #707070,
+              10px -10px 50px 1px #707070,
+              -10px 10px 50px 1px #707070;
+  width: 50%;
+  margin: 1em auto;
+}
