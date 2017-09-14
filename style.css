@@ -20,20 +20,11 @@ body {
   line-height: 1%;
 }
 
-#truck {
-  align-content: center;
-  box-shadow: 10px 10px 50px 1px #606060,
-              -10px -10px 50px 1px #606060,
-              10px -10px 50px 1px #606060,
-              -10px 10px 50px 1px #606060;
-  width: 65%;
-  height: 527px;
-  margin: 2em auto;
-  border-radius: 10px;
-}
-
 #truck img {
-  width: 100%;
+  width: 50%;
+  float: center;
+  margin: auto;
+  display: block;
 }
 
 #title {
@@ -51,6 +42,18 @@ ul {
 #houston {
   text-alig: center;
   clear: both;
+}
+
+#img1 {
+  float: left;
+  padding-left: 260px;
+  text-align: center;
+}
+
+#img2 {
+  float: right;
+  padding-right: 260px;
+  text-align: center;
 }
 
 #closing {
