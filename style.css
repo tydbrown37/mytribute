@@ -10,6 +10,8 @@ body {
   background-color: gray;
 }
 
+
+
 #dedicate {
   font-weight: bold;
   line-height: 30%;
@@ -46,13 +48,13 @@ ul {
 
 #img1 {
   float: left;
-  padding-left: 260px;
+  padding-left: 300px;
   text-align: center;
 }
 
 #img2 {
   float: right;
-  padding-right: 260px;
+  padding-right: 300px;
   text-align: center;
 }
 
